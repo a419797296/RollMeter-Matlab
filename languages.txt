@@ -1,0 +1,80 @@
+del6	删除	Delete
+del5	删除	Delete
+del4	删除	Delete
+fullscreen	全屏	Full-Screen
+title	辊子中高分析系统	RollMeter Analysis System
+theoprof	理论轮廓	Theoretical Profile
+filenums	辊号	Roll Number
+rolldata	辊子参数	Roll Data
+generaldata	基本参数	General Data
+del3	删除	Delete
+del2	删除	Delete
+del1	删除	Delete
+add	添加	Add
+theo_profile	理论轮廓	Theotical Profile
+none	无	None
+cylindic	拟合	fit
+saveTheoyCurve	保存数据	Save Data
+deleteFile	删除文件	Delete Data
+cos	Cos 曲线	Cos curve
+formula	中高公式	Formula
+file	从文件加载	Read from File
+sys_path	工作路径	Working Path
+gcf	辊子中高分析系统	RollMeter Analysis System
+print_result	打印报表	Print Report
+find_pannel	查询面板	Search Panel
+find0	查询	Search
+error0	误差	Error
+limit_err0	误差容限	Tolerance 
+disp_limit_err	显示误差上下限	Display the Torlerance of Error
+open_auto_mapping	开启自动匹配	Open Auto Mapping
+calibr_mode	半径标定模式	Calibration in Radio Model
+up_error	上偏差	Up Limit Error
+low_error	下偏差	Low Limit Error
+readprof	从文件加载理论曲线	Read From File
+para1	输入辊子参数	Input the Crown Parameters
+measstep0	采样距离[mm]	Meas Step [mm]
+measlength0	测量长度[mm]	Meas Length [mm]
+rolllength0	辊子长度[mm]	Length of Crown [mm]
+rollcenter0	辊子中心直径[mm]	Roll Center [mm]
+rolltype0	辊子类型	RollType
+suppliers0	供应商	Suppliers
+kdmeas	测量方式	Kind of Meas
+datameas	测量日期	Data of Meas
+kdmeas0	测量方式	Kind of Meas
+rough0	粗糙度	Roughness
+hard0	硬度	Hardness
+remark0	文件修改标记	File-Remark
+resp0	负责人	Responsible
+inspector0	检查员	Inspector
+rollnum0	辊号	Roll Number
+cover0	包覆	Cover
+ordernum0	单号	Order Number
+customer0	工号	Customer
+language	选择语言	Language
+chinese	中文	Chinese
+english	英文	English
+rollname	辊号	Roll Number
+historycurve	历史曲线	History Curves
+mappanel	自动匹配	Mapping
+movepanel	移动	Move
+mapping	匹配	Mapping
+residual	误差	Residual
+similarity0	相似度	Similarity
+trapezium	梯形曲线	Trapezium
+arc	弧形曲线	Arc
+lock	锁定	Lock
+curv1	隐藏	Hide
+curv2	隐藏	Hide
+curv3	隐藏	Hide
+curv4	隐藏	Hide
+curv5	隐藏	Hide
+curv6	隐藏	Hide
+back	返回	Back
+reset	复原	Reset
+save_data	保存参数	Save Para
+work_path	工作目录	working Path
+over6	所显示的曲线过多，请先删除！	You have selected more than 6 curves, please firstly delete the displayed curve, then choose the new one!
+noLine	图中并未发现有显示的曲线，请先添加曲线，再点击全屏按钮!	There is no lines diplayed in the axes, please firstly select the file in the listbox, then click the the Full-Screem button to watch the detail information about the curve!
+wrongPath	工作路径错误，请重新选择Measure文件夹作为工作目录!	The working path is wrong,pleasure choose a  ''Measure''folder as working path.
+chooseFileFirst	请先选择文件，再添加!	you should select a file first, than click the addbutton

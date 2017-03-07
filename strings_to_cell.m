@@ -1,0 +1,25 @@
+function [list,expdata]=strings_to_cell(filename)
+expdata=cell(1,19);
+expdata{1}=filename;
+expdata{2}=get(handles.rollnum,'string');
+expdata{3}=get(handles.customer,'string');
+expdata{4}=get(handles.ordernum,'string');
+expdata{5}=get(handles.cover,'string');
+expdata{6}=get(handles.rough,'string');
+expdata{7}=get(handles.hard,'string');
+expdata{8}=get(handles.rolltype,'string');
+expdata{9}=get(handles.suppliers,'string');
+expdata{10}=get(handles.inspector,'string');
+expdata{11}=get(handles.resp,'string');
+expdata{12}=get(handles.kdmeas,'string');
+expdata{13}=get(handles.date,'string');
+expdata{14}=get(handles.time,'string');
+expdata{15}=get(handles.rollcenter,'string');
+expdata{16}=get(handles.rolllength,'string');
+expdata{17}=get(handles.measlength,'string');
+expdata{18}=get(handles.measstep,'string');
+expdata{19}=get(handles.remark,'string');
+list={
+'FileName','RollNum','Customer','OrderNum','Cover','Roughness','Hardness','RollType','Supplier','Inspector',
+'Responsible','KOMeas','Data','Time','CrownDia','CrownLength','MeasLength','MeasStep','RdTime'
+};
